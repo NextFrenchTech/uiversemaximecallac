@@ -9,6 +9,7 @@ body {
     min-height: 100dvh;
     width: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -20,6 +21,7 @@ body {
     display: grid;
     place-content: center;
     border-radius: 20px;
+    margin-top: 175px;
     transition: all 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     background-image: linear-gradient(230deg, rgba(93, 93, 93, 0.03) 0%, rgba(93, 93, 93, 0.03) 50%, rgba(78, 78, 78, 0.03) 50%, rgba(78, 78, 78, 0.03) 100%), 
                       linear-gradient(107deg, rgba(55, 55, 55, 0.01) 0%, rgba(55, 55, 55, 0.01) 50%, rgba(170, 170, 170, 0.01) 50%, rgba(170, 170, 170, 0.01) 100%), 
@@ -984,4 +986,26 @@ body {
     opacity: 0;
     transition: all 0.5s cubic-bezier(0.895, 0.03, 0.685, 0.22);
     text-transform: uppercase;
+}
+
+.qrCode {
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.uiverseQrCode {
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    margin: 75px 25px 0 0;
+}
+
+@media (max-width: 1024px) {
+    .card {
+        margin-top: 0;
+    }
+    .qrCode {
+        display: none;
+    }
 }
