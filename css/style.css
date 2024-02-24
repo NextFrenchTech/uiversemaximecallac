@@ -184,7 +184,7 @@ body {
 }
 
 .dot16 {
-    left: 0px;
+    left: 10px;
     top: 20px;
 }
 
@@ -264,270 +264,236 @@ body {
 }
 
 .dot32 {
-    left: 0px;
-    top: 60px;
-}
-
-.dot33 {
     left: -30px;
     top: 130px;
 }
 
-.dot34 {
+.dot33 {
     left: 70px;
     top: 70px;
 }
 
-.dot35 {
+.dot34 {
     left: 50px;
     top: 90px;
 }
 
-.dot36 {
+.dot35 {
     left: 65px;
     top: 80px;
 }
 
-.dot37 {
-    left: 10px;
-    top: 130px;
-}
-
-.dot38 {
+.dot36 {
     left: 10px;
     top: 90px;
 }
 
-.dot39 {
+.dot37 {
     left: 30px;
     top: 115px;
 }
 
-.dot40 {
+.dot38 {
     left: 40px;
     top: 120px;
+}
+
+.dot39 {
+    left: 50px;
+    top: 110px;
+}
+
+.dot40 {
+    left: 90px;
+    top: 110px;
 }
 
 .dot41 {
     left: 50px;
-    top: 110px;
-}
-
-.dot42 {
-    left: 90px;
-    top: 110px;
-}
-
-.dot43 {
-    left: 50px;
     top: 170px;
 }
 
-.dot44 {
-    left: 60px;
-    top: 130px;
-}
-
-.dot45 {
+.dot42 {
     left: 10px;
     top: 160px;
 }
 
-.dot46 {
+.dot43 {
     left: 100px;
     top: 120px;
 }
 
-.dot47 {
+.dot44 {
     left: 0px;
     top: 175px;
 }
 
-.dot48 {
+.dot45 {
     left: 20px;
     top: 180px;
 }
 
-.dot49 {
-    left: 45px;
-    top: 190px;
-}
-
-.dot50 {
+.dot46 {
     left: 120px;
     top: 180px;
 }
 
-.dot51 {
-    left: -5px;
-    top: 105px;
-}
-
-.dot52 {
+.dot47 {
     left: 10px;
     top: -75px;
 }
 
-.dot53 {
-    left: 125px;
-    top: -80px;
-}
-
-.dot54 {
-    left: 120px;
-    top: -20px;
-}
-
-.dot55 {
-    left: 60px;
-    top: -30px;
-}
-
-.dot56 {
-    left: 85px;
-    top: -5px;
-}
-
-.dot57 {
-    left: 30px;
-    top: 15px;
-}
-
-.dot58 {
-    left: -20px;
-    top: 0px;
-}
-
-.dot59 {
-    left: 110px;
-    top: 30px;
-}
-.dot60 {
-    left: -15px;
-    top: 20px;
-}
-
-.dot61 {
-    left: 75px;
-    top: 20px;
-}
-
-.dot62 {
-    left: 100px;
-    top: 55px;
-}
-
-.dot63 {
-    left: -30px;
-    top: 55px;
-}
-
-.dot64 {
-    left: 80px;
-    top: 45px;
-}
-
-.dot65 {
-    left: 30px;
-    top: 30px;
-}
-
-.dot66 {
-    left: 70px;
-    top: 95px;
-}
-
-.dot67 {
-    left: 40px;
-    top: 140px;
-}
-
-.dot68 {
-    left: 110px;
-    top: 100px;
-}
-
-.dot69 {
-    left: 100px;
-    top: 135px;
-}
-
-.dot70 {
-    left: 80px;
-    top: 145px;
-}
-
-.dot71 {
-    left: 20px;
-    top: 160px;
-}
-
-.dot72 {
-    left: 50px;
-    top: -85px;
-}
-
-.dot73 {
-    left: 30px;
-    top: 70px;
-}
-
-.dot74 {
-    left: -20px;
-    top: 140px;
-}
-
-.dot75 {
-    left: 60px;
-    top: 170px;
-}
-
-.dot76 {
+.dot48 {
     left: 110px;
     top: -30px;
 }
 
-.dot77 {
+.dot49 {
     left: -20px;
     top: -35px;
 }
 
-.dot78 {
+.dot50 {
     left: 40px;
     top: -40px;
 }
 
-.dot79 {
+.dot51 {
     left: -40px;
     top: -80px;
 }
 
-.dot80 {
-    left: 70px;
-    top: 120px;
+.dot52 {
+    left: 125px;
+    top: -80px;
 }
 
-.dot81 {
-    left: 90px;
+.dot53 {
+    left: 120px;
+    top: -20px;
+}
+
+.dot54 {
+    left: 60px;
+    top: -30px;
+}
+
+.dot55 {
+    left: 85px;
+    top: -5px;
+}
+
+.dot56 {
+    left: 30px;
+    top: 15px;
+}
+
+.dot57 {
+    left: -20px;
+    top: 0px;
+}
+
+.dot58 {
+    left: 110px;
+    top: 30px;
+}
+
+.dot59 {
+    left: -15px;
+    top: 20px;
+}
+
+.dot60 {
+    left: 75px;
+    top: 20px;
+}
+
+.dot61 {
+    left: 100px;
+    top: 55px;
+}
+
+.dot62 {
+    left: -30px;
+    top: 55px;
+}
+
+.dot63 {
+    left: 80px;
+    top: 45px;
+}
+
+.dot64 {
+    left: 0px;
+    top: 60px;
+}
+
+.dot65 {
+    left: 70px;
+    top: 95px;
+}
+
+.dot66 {
+    left: 40px;
     top: 140px;
 }
 
-.dot82 {
+.dot67 {
+    left: 110px;
+    top: 100px;
+}
+
+.dot68 {
+    left: 100px;
+    top: 135px;
+}
+
+.dot69 {
+    left: 80px;
+    top: 145px;
+}
+
+.dot70 {
+    left: 20px;
+    top: 160px;
+}
+
+.dot71 {
+    left: 50px;
+    top: -85px;
+}
+
+.dot72 {
+    left: 30px;
+    top: 70px;
+}
+
+.dot73 {
+    left: -10px;
+    top: 120px;
+}
+
+.dot74 {
+    left: 70px;
+    top: 170px;
+}
+
+.dot75 {
     left: -25px;
     top: -80px;
 }
 
-.dot83 {
+.dot76 {
     left: 10px;
     top: -20px;
 }
 
-.dot84 {
+.dot77 {
     left: 110px;
     top: 70px;
 }
 
-.dot85 {
+.dot78 {
     left: -35px;
     top: 170px;
     /*animation: pulse 0.5s ease 0s infinite alternate;*/
@@ -697,271 +663,236 @@ body {
 }
 
 .card:hover .dot32 {
-    left: 25px;
-    top: 60px;
+    left: 5px;
+    top: 65px;
 }
 
 .card:hover .dot33 {
-    left: 5px;
+    left: 55px;
     top: 65px;
 }
 
 .card:hover .dot34 {
-    left: 55px;
-    top: 65px;
+    left: 30px;
+    top: 70px;
 }
 
 .card:hover .dot35 {
-    left: 30px;
+    left: 50px;
     top: 70px;
 }
 
 .card:hover .dot36 {
-    left: 50px;
-    top: 70px;
-}
-
-.card:hover .dot37 {
-    left: 25px;
-    top: 75px;
-}
-
-.card:hover .dot38 {
     left: 35px;
     top: 75px;
 }
 
-.card:hover .dot39 {
+.card:hover .dot37 {
     left: 30px;
+    top: 90px;
+}
+
+.card:hover .dot38 {
+    left: 40px;
+    top: 90px;
+}
+
+.card:hover .dot39 {
+    left: 50px;
     top: 90px;
 }
 
 .card:hover .dot40 {
-    left: 40px;
+    left: 80px;
     top: 90px;
 }
 
 .card:hover .dot41 {
-    left: 50px;
-    top: 90px;
-}
-
-.card:hover .dot42 {
-    left: 80px;
-    top: 90px;
-}
-
-.card:hover .dot43 {
     left: 35px;
     top: 95px;
 }
 
-.card:hover .dot44 {
-    left: 55px;
-    top: 95px;
-}
-
-.card:hover .dot45 {
+.card:hover .dot42 {
     left: 25px;
     top: 100px;
 }
 
-.card:hover .dot46 {
+.card:hover .dot43 {
     left: 50px;
     top: 100px;
 }
 
-.card:hover .dot47 {
+.card:hover .dot44 {
     left: 20px;
     top: 105px;
 }
 
-.card:hover .dot48 {
+.card:hover .dot45 {
     left: 45px;
     top: 105px;
 }
 
-.card:hover .dot49 {
-    left: 55px;
-    top: 105px;
-}
-
-.card:hover .dot50 {
+.card:hover .dot46 {
     left: 90px;
     top: 105px;
 }
 
-.card:hover .dot51 {
-    left: 15px;
-    top: 60px;
-}
-
-.card:hover .dot52 {
+.card:hover .dot47 {
     left: 15px;
     top: 20px;
 }
 
-.card:hover .dot53 {
-    left: 75px;
-    top: 0px;
-}
-
-.card:hover .dot54 {
-    left: 85px;
-    top: 10px;
-}
-
-.card:hover .dot55 {
-    left: 45px;
-    top: 15px;
-}
-
-.card:hover .dot56 {
-    left: 75px;
-    top: 15px;
-}
-
-.card:hover .dot57 {
-    left: 10px;
-    top: 25px;
-}
-
-.card:hover .dot58 {
-    left: 0px;
-    top: 30px;
-}
-
-.card:hover .dot59 {
-    left: 85px;
-    top: 30px;
-}
-
-.card:hover .dot60 {
-    left: 10px;
-    top: 40px;
-}
-
-.card:hover .dot61 {
-    left: 75px;
-    top: 40px;
-}
-
-.card:hover .dot62 {
-    left: 85px;
-    top: 50px;
-}
-
-.card:hover .dot63 {
-    left: 0px;
-    top: 55px;
-}
-
-.card:hover .dot64 {
-    left: 55px;
-    top: 55px;
-}
-
-.card:hover .dot65 {
-    left: 30px;
-    top: 60px;
-}
-
-.card:hover .dot66 {
-    left: 40px;
-    top: 70px;
-}
-
-.card:hover .dot67 {
-    left: 20px;
-    top: 90px;
-}
-
-.card:hover .dot68 {
-    left: 85px;
-    top: 90px;
-}
-
-.card:hover .dot69 {
-    left: 80px;
-    top: 100px;
-}
-
-.card:hover .dot70 {
-    left: 40px;
-    top: 95px;
-}
-
-.card:hover .dot71 {
-    left: 30px;
-    top: 100px;
-}
-
-.card:hover .dot72 {
-    left: 50px;
-    top: 0px;
-}
-
-.card:hover .dot73 {
-    left: 40px;
-    top: 55px;
-}
-
-.card:hover .dot74 {
-    left: 10px;
-    top: 65px;
-}
-
-.card:hover .dot75 {
-    left: 60px;
-    top: 95px;
-}
-
-.card:hover .dot76 {
+.card:hover .dot48 {
     left: 85px;
     top: 0px;
 }
 
-.card:hover .dot77 {
+.card:hover .dot49 {
     left: 5px;
     top: 20px;
 }
 
-.card:hover .dot78 {
+.card:hover .dot50 {
     left: 45px;
     top: 5px;
 }
 
-.card:hover .dot79 {
+.card:hover .dot51 {
     left: 0px;
     top: 20px;
 }
 
-.card:hover .dot80 {
-    left: 60px;
+.card:hover .dot52 {
+    left: 75px;
+    top: 0px;
+}
+
+.card:hover .dot53 {
+    left: 85px;
+    top: 10px;
+}
+
+.card:hover .dot54 {
+    left: 45px;
+    top: 15px;
+}
+
+.card:hover .dot55 {
+    left: 75px;
+    top: 15px;
+}
+
+.card:hover .dot56 {
+    left: 10px;
+    top: 25px;
+}
+
+.card:hover .dot57 {
+    left: 0px;
+    top: 30px;
+}
+
+.card:hover .dot58 {
+    left: 85px;
+    top: 30px;
+}
+
+.card:hover .dot59 {
+    left: 10px;
+    top: 40px;
+}
+
+.card:hover .dot60 {
+    left: 75px;
+    top: 40px;
+}
+
+.card:hover .dot61 {
+    left: 85px;
+    top: 50px;
+}
+
+.card:hover .dot62 {
+    left: 0px;
+    top: 55px;
+}
+
+.card:hover .dot63 {
+    left: 55px;
+    top: 55px;
+}
+
+.card:hover .dot64 {
+    left: 30px;
+    top: 60px;
+}
+
+.card:hover .dot65 {
+    left: 40px;
+    top: 70px;
+}
+
+.card:hover .dot66 {
+    left: 20px;
     top: 90px;
 }
 
-.card:hover .dot81 {
-    left: 70px;
+.card:hover .dot67 {
+    left: 85px;
     top: 90px;
 }
 
-.card:hover .dot82 {
+.card:hover .dot68 {
+    left: 80px;
+    top: 100px;
+}
+
+.card:hover .dot69 {
+    left: 40px;
+    top: 95px;
+}
+
+.card:hover .dot70 {
+    left: 30px;
+    top: 100px;
+}
+
+.card:hover .dot71 {
+    left: 50px;
+    top: 0px;
+}
+
+.card:hover .dot72 {
+    left: 40px;
+    top: 55px;
+}
+
+.card:hover .dot73 {
+    left: 10px;
+    top: 60px;
+}
+
+.card:hover .dot74 {
+    left: 55px;
+    top: 90px;
+}
+
+.card:hover .dot75 {
     left: 0px;
     top: 0px;
 }
 
-.card:hover .dot83 {
+.card:hover .dot76 {
     left: 45px;
     top: 25px;
 }
 
-.card:hover .dot84 {
+.card:hover .dot77 {
     left: 75px;
     top: 60px;
 }
 
-.card:hover .dot85 {
+.card:hover .dot78 {
     left: 0px;
     top: 90px;
     /*animation: none;*/
@@ -1004,6 +935,15 @@ body {
 @media (max-width: 1024px) {
     .card {
         margin-top: 0;
+    }
+    .card:hover .size-20 .svg {
+        fill: silver;
+    }
+    .card:hover .size-20::before {
+        opacity: 0;
+    }
+    .dot.size-20:hover .svg {
+        fill: whitesmoke;
     }
     .qrCode {
         display: none;
