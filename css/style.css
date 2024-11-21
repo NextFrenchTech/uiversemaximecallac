@@ -496,7 +496,7 @@ html, body {
 .dot78 {
     left: -35px;
     top: 170px;
-    /*animation: pulse 0.5s ease 0s infinite alternate;*/
+    /*animation: pulse 1.1s ease 0s infinite alternate;*/
 }
 
 .card:hover {
@@ -899,10 +899,14 @@ html, body {
 }
 
 /*@keyframes pulse {
-    0% {scale: 1;}
-    25% {scale: 1.2;}
-    50% {scale: 1;}
-    100% {scale: 1.3;}
+    0% {scale: 1.1;}
+    25% {scale: 1;}
+    50% {scale: 1.1;}
+    75% {scale: 1;}
+    100% {scale: 1.1;}
+    75% {scale: 1;}
+    50% {scale: 1.1;}
+    25% {scale: 1;}
 }*/
 
 .text {
